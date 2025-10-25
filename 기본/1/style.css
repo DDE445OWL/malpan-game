@@ -1,3 +1,9 @@
+
+body {
+  background: url("././image 1");
+  opacity: 3;
+}
+
 .road {
   display: inline-block;
   position: absolute;
